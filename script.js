@@ -37,7 +37,7 @@ setInterval(() => {
   setTimeout(() => coracao.remove(), 4000);
 }, 500);
 const fotos = [
-  "foto1.jpg",
+  "foto10.jpg",
   "foto2.jpg",
   "foto3.jpg",
   "foto4.jpg",
